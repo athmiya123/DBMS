@@ -1,0 +1,1 @@
+this is a BLood Donation Management System project , this project is done using SQL. This projects is mainy useful for the givernment hospitals and for the people who is in need for the blood. in this project we can find different types of blood groups that are in the bank. 
